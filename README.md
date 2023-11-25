@@ -79,7 +79,7 @@
 *** Дополнить <br />
 *** Информация о масштабируемости решения <br />
 ### Пример предсказания на видео (conf=0.5)
-Видео взято с [Dashcam Drive Relaxing Drive Videos](https://www.kaggle.com/datasets/watchman/rtsd-dataset](https://www.youtube.com/@dashcamdriverelaxingdrivev7021/videos).
+Видео взято с [Dashcam Drive Relaxing Drive Videos](https://www.youtube.com/@dashcamdriverelaxingdrivev7021/videos) .
 #### Ночь, хорошая погода
 
 https://github.com/trafficsurfer/YOLOv8/assets/92330362/43d498ab-ba03-4e04-8e5b-b6e893d649eb
